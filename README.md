@@ -4,7 +4,7 @@
 
 新手易用，功能全面，推荐使用。
 
-![示例](https://raw.githubusercontent.com/98wb/win/master/%E4%BA%94%E7%AC%9498%E7%89%88.jpg)
+![示例](https://raw.githubusercontent.com/98wb/win/master/%E4%BA%94%E7%AC%9498%E7%89%88-%E9%A2%84%E8%A7%88.jpg)
 
 
 ## 其它
