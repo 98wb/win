@@ -15,6 +15,8 @@
 
 - 小狼毫98五笔版
 
+![小狼毫98五笔版](https://raw.githubusercontent.com/98wb/win/master/%E5%B0%8F%E7%8B%BC%E6%AF%AB%E6%BC%94%E7%A4%BA.gif)
+
 ``````
 F4切换「方案选单」，有「单字」和「含词」两种98五笔方案。
 「含词」部分，采用「高频单字-词组-生僻字」的排序模式。
